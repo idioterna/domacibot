@@ -1,0 +1,22 @@
+
+TOKEN = 'discord bot token'
+
+
+LOCATIONS = (
+        'Ljubljana',
+        'Letališče Edvarda Rusjana Maribor',
+        'Letališče Portorož',
+        )
+
+BIRTHDAYS = {
+    'tito': '04-05',
+    'wrtnica': '06-12',
+    'jizah': '25-12',
+    'mybdtoday': '29-09',
+    }
+
+BIRTHDAY_MESSAGES = (
+    'Vse najboljše!',
+    'Happy birthday!',
+    'Hepi brzdej, džezeru!',
+    )

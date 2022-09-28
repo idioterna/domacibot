@@ -1,3 +1,0 @@
-
-TOKEN = 'discord bot token'
-
